@@ -4,6 +4,14 @@ import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 
 /// RatingStars is a dynamic widget for capturing user ratings with visually interactive stars
+///
+/// ```dart
+/// RatingStars(
+///   activeColor: Colors.purple,
+///   backgroundColor: Colors.blue,
+///   onChanged: (value) => setState(() => rating = value),
+/// )
+/// ```
 class RatingStars extends StatefulWidget {
   /// This function will be executed each time the user change the number of selected stars
   final ValueChanged<int> onChanged;
