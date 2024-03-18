@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rating_stars/rating_stars.dart';
+import 'package:rating_stars/widgets/rating_stars.dart';
 
 void main() {
   runApp(const MyApp());
