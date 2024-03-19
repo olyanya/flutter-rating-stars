@@ -2,7 +2,7 @@
 
 Customizable package that offers a way to collect user ratings. Based on Rive animation, it delivers a dynamic rating that can be adapted to fit into any app.
 
-![Rating stars example](https://github.com/olyanya/rating_stars/blob/main/assets/rating_stars_example.gif)
+![Rating stars example](https://github.com/olyanya/flutter-rating-stars/blob/main/lib/assets/rating_stars_example.gif)
 
 ## Getting started
 
